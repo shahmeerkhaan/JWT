@@ -1,1 +1,6 @@
-/Migrations/
+bin/
+obj/
+appsettings.json
+appsettings.Development.json
+Migrations/
+Properties/launchSettings.json
